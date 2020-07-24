@@ -4,7 +4,6 @@ I have tried to built this game to learn something about how things work on canv
 # table tennis game
 The Table Tennis Game is a simple project developed using JavaScript, CSS, and HTML canvas. This game is an interesting game. The player has to move the stick like a TT bat to reflect the ball back to the opponent and make a score. This game helps players practice to build their concentration power too.
 
-# how to run this project
-I recommend you to run this game on google chrome and mozilla firefox.To play the game,first open the game in your browsers like clicking the tennis.html file.
 
+![Screenshot (280)](https://user-images.githubusercontent.com/60621421/88409240-4c0e3280-cdf2-11ea-90b4-75f628e1b062.png)
 
